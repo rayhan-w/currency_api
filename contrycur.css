@@ -1,0 +1,78 @@
+body {
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/529/469/68/money-countries-wallpaper-preview.jpg);
+}
+body .mainbx {
+  background-color: #ee1848;
+  height: 400px;
+  width: 300px;
+  padding: 15px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+body .mainbx label {
+  color: #000;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: bold;
+  position: relative;
+  top: px;
+}
+body .mainbx input[type=number] {
+  height: 30px;
+  width: 130px;
+  background-color: #eec7c7;
+  border: none;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}
+body .mainbx .dropdowns {
+  position: relative;
+  top: 50px;
+}
+body .mainbx .dropdowns select {
+  height: 35px;
+  width: 120px;
+  padding: 10px;
+  position: relative;
+  left: 30px;
+  background-color: rgb(43, 226, 162);
+  font-size: 15px;
+  border: none;
+  outline: none;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  font-weight: 600;
+}
+body .mainbx #convert_button {
+  position: relative;
+  top: 80px;
+  left: 50px;
+  background-color: aqua;
+  height: 50px;
+  width: 170px;
+  font-size: 23px;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+body .mainbx #convert_button:hover {
+  background-color: #6eebe4;
+  color: white;
+}
+body .mainbx #result {
+  position: relative;
+  top: 130px;
+  height: 30px;
+  width: 250px;
+  background-color: #ddd;
+  padding: 15px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: sans-serif;
+}/*# sourceMappingURL=contrycur.css.map */
